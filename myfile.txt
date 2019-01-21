@@ -1,0 +1,11 @@
+I have some text in myfile.
+
+This
+is
+the
+text
+I
+did not
+write.
+
+# No more comments
